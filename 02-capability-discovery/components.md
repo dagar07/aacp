@@ -166,3 +166,6 @@ After completing Capability Discovery, the requesting AI has:
 - A filtered list of available capabilities
 - Associated constraints and risk levels
 - No execution permission yet
+
+####  Capability Discovery is the safety valve of AACP.
+It ensures AI agents never overreach, over-assume, or over-trust.
